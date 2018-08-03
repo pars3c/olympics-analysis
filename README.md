@@ -7,3 +7,6 @@
 <p>What physique is a winner made out.</p>
 <p>Timely changes</p>
 <p>Gender differences during the olympics.</p>
+<p>Age Density</p>
+<p>Winning Density based on physique</p>
+<p>Gender Gap</p>
