@@ -4,4 +4,17 @@ ul.unstyled, ul.unstyled ul, ul.unstyled li {
   font-size: 20px;
   font-weight: 600;
 }
+
+.container{
+    
+}
+.container img{
+    display: inline-block;
+    width: 140px;
+    height: 200px;
+}
+.container div.text{
+    display: inline-block;
+    padding:50px;
+}
 </style>
